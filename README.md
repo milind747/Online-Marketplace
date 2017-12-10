@@ -7,5 +7,5 @@ A website built by integrating multiple individual websites
 2. Milind Patel
 3. Phat Truong
 4. Sannisth Soni
-5. Tin VU
+5. Tin Vu
 6. Ujjval Soni
